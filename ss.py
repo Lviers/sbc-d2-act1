@@ -26,7 +26,7 @@ print(wowd.upper()) #HEWOO OWO
 print(wowd.lower()) #hewoo owo
 print(wowd.capitalize()) #Hewoo owo
 print(wowd.title()) # Hewoo Owo
-print(wowd.replace("h", "nigga")) # niggaewoo owo
+print(wowd.replace("h", "s")) # sewoo owo
 print(wowd.find("h")) #nuwmber 
 print(wowd.isalpha()) #spwace is nwot an awpha UWU
 print(wowd.isnumeric())
